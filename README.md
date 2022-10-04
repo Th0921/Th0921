@@ -19,4 +19,4 @@ Este espaço é onde deposito as minhas habilidades através da criatividade e i
 <a href= "linkedin.com/in/thaynara-dias-216438233"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt= "linkedim-logo"</a> 
 <br>
 <br>
-[![Thaynara stats](https://github-readme-stats.vercel.app/api?username=th0921)](https://github.com/anuraghazra/github-readme-stats)
+
