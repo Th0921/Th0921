@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3>Olá amigos Desv!!!!:sunglasses:</h3>
 
-<!--
-**Th0921/Th0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4>Quem Sou...</h4>
+Eu sou Thaynara Dias e sou uma programadora Front-end. Atualmente estou aprendendo e criando projetos. 
+<br>
+<br>
+Este espaço é onde deposito as minhas habilidades através da criatividade e imaginação na crianção das minhas propostas.:bulb: 
+<br>
+<br>
+<h4>O que estou aprendendo?</h4>
+<p>-HTMLL:heavy_check_mark:</p>
+<p>-CSS:heavy_check_mark:</p>
+<p>-Iniciando meus conhecimentos em JavaScripte React.:heavy_check_mark:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Conecte-se comigo:</4> 
+<br>
+<br>
+<a href= "linkedin.com/in/thaynara-dias-216438233"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt= "linkedim-logo"</a> 
+<br>
+<br>
+[![Thaynara stats](https://github-readme-stats.vercel.app/api?username=th0921)](https://github.com/anuraghazra/github-readme-stats)
