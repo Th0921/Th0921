@@ -11,7 +11,8 @@ Este espaço é onde deposito as minhas habilidades através da criatividade e i
 <h4>O que estou aprendendo?</h4>
 <p>-HTMLL:heavy_check_mark:</p>
 <p>-CSS:heavy_check_mark:</p>
-<p>-Iniciando meus conhecimentos em JavaScripte React.:heavy_check_mark:</p>
+<p>-JavaScript:heavy_check_mark:</p>
+<p>-Iniciando meus conhecimentos em React.:heavy_check_mark:</p>
 
 <h4>Conecte-se comigo:</4> 
 <br>
