@@ -12,6 +12,7 @@ Este espaço é onde deposito as minhas habilidades através da criatividade e i
 <p>-HTMLL:heavy_check_mark:</p>
 <p>-CSS:heavy_check_mark:</p>
 <p>-JavaScript:heavy_check_mark:</p>
+<p>-Tenho conhecimento na ferramenta do WordPress:heavy_check_mark:</p>
 <p>-Iniciando meus conhecimentos em React.:heavy_check_mark:</p>
 
 <h4>Conecte-se comigo:</4> 
